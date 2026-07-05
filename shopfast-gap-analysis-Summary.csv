@@ -1,0 +1,14 @@
+Risk Rating Matrix (Likelihood x Impact),,,
+,,,
+Likelihood \ Impact,Low,Medium,High
+High,Low,High,Critical
+Medium,Low,Medium,High
+Low,Low,Low,Low
+,,,
+Gap Count by Priority,,,
+,,,
+Priority,Count,,
+Critical,1,,
+High,4,,
+Medium,4,,
+Low,1,,
